@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react'
-import CountButton from './CountButton/CountButton'
-import SearchBar from './SearchBar/SearchBar'
-import Title from './Title/Title'
+import CountButton from './components/CountButton/CountButton'
+import SearchBar from './components/SearchBar/SearchBar'
+import Title from './components/Title/Title'
 
-const App = () => {
+const AppM = () => {
 
     const [productState, setProductState] = useState([])
 
@@ -36,5 +36,5 @@ const App = () => {
     )
 }
 
-export default App
+export default AppM
 

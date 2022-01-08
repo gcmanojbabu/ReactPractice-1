@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 Source: Youtube.com / mike dane / React JS tutorial
+and
+Source: Youtube freecodecamp - React Compoenent Lifecycle Hookes/Methodes
+Ref index.js
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
